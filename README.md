@@ -21,7 +21,7 @@ python train.py --dataset_name chemical --epochs 100 --hidden_size 250 --print_e
 ## Inference network:
 ![Inference network](images/architecture.png)
 
-## Intent and Topic words example on Pubmed20k dataset:
+## Wordcloud of Intent and Topic on Pubmed20k dataset:
 
 ![Intent words](images/intent_words.png)
 
